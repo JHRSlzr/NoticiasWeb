@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "practica-app-458c1": {
+      "hosting": {
+        "WebNoticias": [
+          "practica-app-458c1"
+        ]
+      }
+    }
+  }
+}
